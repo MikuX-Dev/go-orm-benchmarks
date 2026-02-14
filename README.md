@@ -43,7 +43,7 @@ go-orm-benchmarks -orm=all
 go-orm-benchmarks -orm=gorm
 go-orm-benchmarks -orm=pg
 go-orm-benchmarks -orm=bun
-# ... and so on...
+# ... and so on....
 ```
 
 **_Note: Also, you can run `./run_benchmarks.sh` and you can get output like results.md format._**
