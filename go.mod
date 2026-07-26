@@ -13,7 +13,7 @@ require (
 	github.com/go-rel/postgres v0.12.0
 	github.com/go-rel/rel v0.42.0
 	github.com/gobuffalo/pop/v6 v6.1.1
-	github.com/gocraft/dbr/v2 v2.7.6
+	github.com/gocraft/dbr/v2 v2.7.7
 	github.com/jackc/pgx/v5 v5.7.2
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/lib/pq v1.12.3
