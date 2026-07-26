@@ -16,7 +16,7 @@ require (
 	github.com/gocraft/dbr/v2 v2.7.6
 	github.com/jackc/pgx/v5 v5.7.1
 	github.com/jmoiron/sqlx v1.4.0
-	github.com/lib/pq v1.10.9
+	github.com/lib/pq v1.12.3
 	github.com/samonzeweb/godb v1.0.15
 	github.com/upper/db/v4 v4.7.0
 	github.com/uptrace/bun v1.2.3
