@@ -1,10 +1,10 @@
 module github.com/efectn/go-orm-benchmarks
 
-go 1.25.0
+go 1.26.5
 
 require (
 	entgo.io/ent v0.14.6
-	gitee.com/chunanyong/zorm v1.8.2
+	gitee.com/chunanyong/zorm v1.8.5
 	github.com/astaxie/beego v1.12.3
 	github.com/bokwoon95/sq v0.5.1
 	github.com/friendsofgo/errors v0.9.2
@@ -14,7 +14,7 @@ require (
 	github.com/go-rel/rel v0.42.0
 	github.com/gobuffalo/pop/v6 v6.3.0
 	github.com/gocraft/dbr/v2 v2.7.7
-	github.com/jackc/pgx/v5 v5.9.1
+	github.com/jackc/pgx/v5 v5.10.0
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/lib/pq v1.12.3
 	github.com/samonzeweb/godb v1.0.15
@@ -30,7 +30,7 @@ require (
 	gorm.io/gen v0.3.27
 	gorm.io/gorm v1.31.2
 	gorm.io/plugin/dbresolver v1.6.2
-	xorm.io/xorm v1.3.11
+	xorm.io/xorm v1.4.1
 )
 
 require (
@@ -115,7 +115,7 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gorm.io/datatypes v1.2.4 // indirect
-	gorm.io/driver/mysql v1.5.7 // indirect
+	gorm.io/driver/mysql v1.10.0 // indirect
 	gorm.io/hints v1.1.0 // indirect
 	mellium.im/sasl v0.3.2 // indirect
 	xorm.io/builder v0.3.13 // indirect
