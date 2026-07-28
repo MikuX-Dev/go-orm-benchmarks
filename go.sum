@@ -261,8 +261,8 @@ github.com/gobuffalo/validate/v3 v3.3.3 h1:o7wkIGSvZBYBd6ChQoLxkz2y1pfmhbI4jNJYh
 github.com/gobuffalo/validate/v3 v3.3.3/go.mod h1:YC7FsbJ/9hW/VjQdmXPvFqvRis4vrRYFxr69WiNZw6g=
 github.com/goccy/go-json v0.10.5 h1:Fq85nIqj+gXn/S5ahsiTlK3TmC85qgirsdTP/+DeaC4=
 github.com/goccy/go-json v0.10.5/go.mod h1:oq7eo15ShAhp70Anwd5lgX2pLfOS3QCiwU/PULtXL6M=
-github.com/gocraft/dbr/v2 v2.7.6 h1:ASHKFgCbTLODbb9f756Cl8VAlnvQLKqIzx9E1Cfb7eo=
-github.com/gocraft/dbr/v2 v2.7.6/go.mod h1:8IH98S8M8J0JSEiYk0MPH26ZDUKemiQ/GvmXL5jo+Uw=
+github.com/gocraft/dbr/v2 v2.7.7 h1:GyG0GvBnCXoNuZqgwJikN/FKPMflxnqb6dJHCwXseG0=
+github.com/gocraft/dbr/v2 v2.7.7/go.mod h1:rW3YUVRncA5eL464O20jfJq2W2kCML5dNIBqGVD04gM=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/gofrs/uuid v3.2.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
 github.com/gofrs/uuid v3.3.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
